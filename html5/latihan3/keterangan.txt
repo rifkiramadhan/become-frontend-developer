@@ -1,0 +1,24 @@
+---- Keterangan Latihan 3 ----
+
+1. Pengertian
+   - <html lang="en">
+     - Artinya menggunakan bahasa english / inggris untuk website kita
+   - <meta charset="UTF-8">
+     - Artinya karakter website kita, jadi ketika membuat document baru maka script HTML nya seperti template utama kita
+   - <meta name="viewport"...
+     - Berfungsi untuk ketika website kita dibuka pada tampilan device atau seperti HP dan Tablet maka ukurannya akan
+       responsive, jadi ini berdasarkan dari device apa yang digunakan
+   - <title>
+     - Berfungsi untuk membuat judul pada tab website kita
+   - <head> (Header)
+     - Header adalah judul halaman pada content website yang kita buat, dan header memiliki 6 versi
+       - <h1>
+       - <h2>
+       - <h3>
+       - <h4>
+       - <h5>
+       - <h6>
+     - Jadi semakin besar head nya maka semakin kecil ukurannya, dan jarang sekali orang menggunakan h5 dan h6, paling
+       sedikit orang menggunakan yaitu h4
+     - Header ini sangat berfungsi sekali untuk mempresentasikan suatu halaman yang dibuat itu fungsinya untuk apa,
+       jadi kita perlu menyesuaikan tag head nya pada setiap content sehingga relevan ketika dibaca oleh pengguna

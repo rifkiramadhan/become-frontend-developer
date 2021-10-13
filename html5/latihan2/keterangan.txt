@@ -1,0 +1,12 @@
+---- Keterangan Latihan 2 ----
+
+1. Pengertian
+   - <html lang="en">
+     - Artinya menggunakan bahasa english / inggris untuk website kita
+   - <meta charset="UTF-8">
+     - Artinya karakter website kita, jadi ketika membuat document baru maka script HTML nya seperti template utama kita
+   - <meta name="viewport"...
+     - Berfungsi untuk ketika website kita dibuka pada tampilan device atau seperti HP dan Tablet maka ukurannya akan
+       responsive, jadi ini berdasarkan dari device apa yang digunakan
+   - <title>
+     - Berfungsi untuk membuat judul pada tab website kita

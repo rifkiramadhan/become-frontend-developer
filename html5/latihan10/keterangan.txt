@@ -1,0 +1,58 @@
+---- Keterangan Latihan 10 ----
+
+1. Pengertian
+   - <html lang="en">
+     - Artinya menggunakan bahasa english / inggris untuk website kita
+   - <meta charset="UTF-8">
+     - Artinya karakter website kita, jadi ketika membuat document baru maka script HTML nya seperti template utama kita
+   - <meta name="viewport"...
+     - Berfungsi untuk ketika website kita dibuka pada tampilan device atau seperti HP dan Tablet maka ukurannya akan
+       responsive, jadi ini berdasarkan dari device apa yang digunakan
+   - <title>
+     - Berfungsi untuk membuat judul pada tab website kita
+   - <head> (Header)
+     - Header adalah judul halaman pada content website yang kita buat, dan header memiliki 6 versi
+       - <h1>
+       - <h2>
+       - <h3>
+       - <h4>
+       - <h5>
+       - <h6>
+     - Jadi semakin besar head nya maka semakin kecil ukurannya, dan jarang sekali orang menggunakan h5 dan h6, paling
+       sedikit orang menggunakan yaitu h4
+     - Header ini sangat berfungsi sekali untuk mempresentasikan suatu halaman yang dibuat itu fungsinya untuk apa,
+       jadi kita perlu menyesuaikan tag head nya pada setiap content sehingga relevan ketika dibaca oleh pengguna
+   - <p> (Paragraf)
+     - Adalah tag html yang berfungsi untuk membuat teks paragraf pada setiap halaman webste
+   - <br>
+     - Adalah tag html yang berfungsi untuk membuat line break pada halaman website, sehingga teks yang ada di posisi
+       setelah tag penutup br akan jatuh kebawah
+     - Dari segi desain UI lebih baik menggunakan satu buah tag br pada tiap paragraf agar space nya tidak terlalu jauh
+   - <ol>
+     - Ini adalah order list
+   - <ul>
+     - ini adalah unordered ist, artinya kita tidak menggunakan angka
+   - <li>
+     - Ini adalah list item
+   - <a> (Achor)
+     - Berfungsi untuk membuat link pada halaman website yang bertujuan untuk berpindah dari halaman satu ke halaman lain
+     - target="_blank"
+       - Berfungsi untuk membuka tab baru pada browser ketika tag link di tekan, agar tidak menimpa website yang dibuka
+   - <img> (Images)
+     - Berfungsi untuk membuat sebuah gambar pada halaman website kita
+     - Jadi gambar itu sangat penting ketika kita ingin mempresentasikan desain yang lebih menarik lagi
+     - alt="Gambar 1"
+       - Adalah alternatif gambar yang akan muncul ketika gambarnya tidak terdeteksi
+   - <section>
+     - Section adalah suatu bagian pada content website, jadi kita ingin membuat susunan website itu lebih rapih lagi
+       menggunakan section, jadi semuanya kita dapat kategorikan dengan berbeda-beda section nya
+     - Ketika kita menggunakan section, pastikan kita memiliki h1 sebagai titlenya, itu adalah syarat dari section
+     - Section dapat disatukan dan juga dapat dibedakan, tetapi lebih baik dibedakan saja agar memberikan dampak yang
+       baik untuk SEO
+   - <nav> (Navigation)
+     - Berfungsi untuk membuat sebuah menu pada halaman website
+   - <footer>
+     - Adalah tempat untuk meletakkan suatu copyright sehingga nanti pengunjung yang datang itu dapat melihat, bahwa
+       ini adalah perusahaan dari mana, jadi dapat memberikan effect branding kepada website kita sendiri, dan ini 
+       cukup penting juga ketika kita sedang membangun website tersebut pada tahun berapa itu dapat dilihat juga, dan
+       ini juga dapat meningkatkan dari segi kepercayaan pada costomer kita
