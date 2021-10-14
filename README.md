@@ -1,8 +1,8 @@
 # Become Front-End Developer
 ## Daftar Kelas
 - [x] HTML5 Dasar
--  CSS Website Design
--  CSS Tailwind Web Design
+- [x] CSS Website Design
+- [x] CSS Tailwind Web Design
 -  Vanilla JavaScript Pada Website Development
 -  ES6 Dasar
 -  Progressive Web Apps

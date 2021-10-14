@@ -1,0 +1,7 @@
+---- Keterangan Latihan 8 ----
+
+1. Pengertian
+   - Pseudo-Class
+     - Dengan menggunakan Pseudo-Class kita juga dapat memberikan suatu indikator bahwa menu fitur ataupun login itu telah kita klik
+   - Hover
+     - Suatu Effect yang kita miliki pada tag a atau anchor atau pada elemen HTML apa saja

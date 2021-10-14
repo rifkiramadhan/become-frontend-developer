@@ -1,0 +1,5 @@
+---- Keterangan Latihan 11 ----
+
+1. Pengertian
+   - Border Radius
+     - Untuk mengatur potongan sudut pada setiap box pada website

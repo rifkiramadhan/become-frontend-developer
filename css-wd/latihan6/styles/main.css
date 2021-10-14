@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 70%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    background: #b1b1b1;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+.header .logo {
+    font-size: 32px;
+    float: left;
+}
+
+.header .navigation {
+    float: right;
+}

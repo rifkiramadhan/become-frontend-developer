@@ -1,0 +1,7 @@
+---- Keterangan Latihan 6 ----
+
+1. Pengertian
+   - Float
+     - Untuk mengatur posisi yang ada pada setiap komponen pada website
+   - Container
+     - Untuk mengator lebar isi dari setiap content pada komponen website

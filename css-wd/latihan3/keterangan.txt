@@ -1,0 +1,7 @@
+---- Keterangan Latihan 3 ----
+
+1. Pengertian
+   - Eksternal CSS
+     - Adalah Script CSS yang kita hubungkan dengan cara membuat file Expternal CSS secara terpisah dan menghubungkannya dengan tag link pada 
+       setiap head pada script HTML kita
+     - Dengan menggunakan cara ini maka kita dapat menghemat waktu sekitar 70% dalam membuat sebuah desain web dengan skala yang besar

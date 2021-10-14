@@ -1,0 +1,5 @@
+---- Keterangan Latihan 4 ----
+
+1. Pengertian
+   - Width dan Height
+     - Berfungsi untuk mengatutr ukuran tinggi dan lebar pada setiap komponen website

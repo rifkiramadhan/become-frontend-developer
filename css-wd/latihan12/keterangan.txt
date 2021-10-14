@@ -1,0 +1,7 @@
+---- Keterangan Latihan 12 ----
+
+1. Pengertian
+   - Border Radius
+     - Untuk mengatur potongan sudut pada setiap box pada website
+   - Background Image
+     - Berfungsi untuk membuat latar belakang berbentuk gambar yang optimal pada website

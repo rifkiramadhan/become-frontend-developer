@@ -1,0 +1,6 @@
+---- Keterangan Latihan 1 ----
+
+1. Pengertian
+   - Internal CSS
+     - Adalah CSS yang kita letakkan tepat di dalam folder atau document HTML, jadi tidak kita pisahkan scriptnya
+     - Tapi kendalanya kita harus modifikasi script CSS nya satu persatu

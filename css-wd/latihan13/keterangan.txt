@@ -1,0 +1,12 @@
+---- Keterangan Latihan 12 ----
+
+1. Pengertian
+   - Border Radius
+     - Untuk mengatur potongan sudut pada setiap box pada website
+   - Background Image
+     - Berfungsi untuk membuat latar belakang berbentuk gambar yang optimal pada website
+   - Background Gradient
+     - Sangat membantu kita dalam memberikan warna yang lebih menarik
+     - Berfungsi untuk membuat warna pada Background website, yang terdiri dari
+       - Linear Gradient, ini bentuknya seperti garis
+       - Radial Gradient, ini bentuknya seperti lingkaran

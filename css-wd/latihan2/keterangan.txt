@@ -1,0 +1,6 @@
+--- Keterangan Latihan 2 ----
+
+1. Pengertian
+   - Inline CSS
+     - Adalah CSS yang kita letakkan tepat di dalam tag script HTML
+     - Hal ini disarankan, jadi sebisa mungkin kita menggunakan cara Internal CSS

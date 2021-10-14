@@ -1,0 +1,57 @@
+/* Install Fonts */
+/* @font-face {
+    font-family: abrilFat;
+    src: url(../fonts/AbrilFatface-Regular.ttf);
+} */
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 70%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    background: #b1b1b1;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+.header .logo {
+    font-size: 32px;
+    float: left;
+    /* font-family: abrilFat; */
+    font-family: 'Lobster', cursive;
+}
+
+.header .navigation {
+    float: right;
+    margin-top: 40px;
+}
+
+.header .navigation li {
+    float: right;
+    margin-left: 20px;
+    font-size: 18px;
+    display: block;
+}
+
+.header .navigation li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header .navigation li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* .header .navigation li a:visited {
+    color: blue;
+} */

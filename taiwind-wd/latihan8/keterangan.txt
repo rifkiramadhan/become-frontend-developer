@@ -1,0 +1,8 @@
+---- Keterangan Latihan 8 ----
+
+1. Cara Penggunaan Installasi
+   - npm init
+   - npm install tailwindcss@1.4.6
+   - npm install nodemon@2.0.4
+   - npm run build:css / npm run serve
+   - npx tailwindcss init

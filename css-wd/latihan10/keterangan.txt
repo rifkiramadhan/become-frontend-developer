@@ -1,0 +1,9 @@
+---- Keterangan Latihan 10 ----
+
+1. Pengertian
+   - Local Fonts
+     - Menginstall google font dengan cara mendownload dan memasukkannya ke dalam local browser
+     - Berfungsi ketika kita tidak terkoneksi internet, maka font tersebut tidak akan hilang dan tetap akan terbaca
+   - Fonts URL Google
+     - Kita hanya perlu mengcopy link CDN dari font yang kita pilih pada Google Fonts dan tidak perlu untuk mendownloadnya
+     - Font ini hanya terhubung ketika website kita terkoneksi internet

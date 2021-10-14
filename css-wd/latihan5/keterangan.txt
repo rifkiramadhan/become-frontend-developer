@@ -1,0 +1,7 @@
+---- Keterangan Latihan 5 ----
+
+1. Pengertian
+   - Margin
+     - Adalah jarak antara item kepada item 
+   - Padding
+     - Adalah jarak di dalam item kepada item tersebut
