@@ -1,0 +1,17 @@
+---- Keterangan Latihan 1 ----
+
+1. Pengertian
+   - camelCase
+     - Adalah pola penamaan variable, jadi setiap ada pemisahan suku kata maka diwajibkan untuk membuat kalimat awal
+       dengan huruf depan kecil dan kalimat akhir dengan huruf depan besar, atau keduanya huruf depannya boleh sama-sama
+       mengandung huruf besar
+   - snake_case
+     - Adalah pola penamaan variable, jadi setiap ada pemisahan suku kata maka diwajibkan setiap akhir kalimat diwajibkan
+       menggunakan symbol underscore
+   - ECMAScript6
+     - Adalah modernisasi di dalam JavaScript yang mana kita tidak akan menggnuakan var lagi, karena var ini scope nya
+       adalah global
+     - Jadi dengan modern javascript kita tidak mungkin terbailik untuk menginisialisasi variable
+     - Perbedaan let dan const:
+       - Kita bisa menggunakan let ketika nilainya suatu saat ingin diubah
+       - Kita bisa menggunakan const maka nilainya akan solid segitu saja atau tidak boleh diubah
