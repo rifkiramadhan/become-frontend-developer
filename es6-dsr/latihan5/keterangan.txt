@@ -1,0 +1,18 @@
+---- Keterangan Latihan 5 ----
+
+1. Pengertian
+   - ES5
+     - Biasa kita sebut sebagai JavaScript 5, 6, dan bahkan ada versi 7 dari React
+     - Sangat berbahaya karena ini dapat menimpa setiap string dari variable yang menumpuk
+   - ES6
+     - Kita bisa menggunakan const, ini sama seperti var tapi di bagian const ini kita tidak dapat merubah value dengan cara
+       apa yang kita lakukan pada variable sebelumnya
+     - Ini cukup aman ketika kita menyimpan beberapa code seperti token dari api karena tidak dapat dirubah
+     - Ketika kita ingin membuat suatu tipe data yang tidak dapat dirubah maka kita dapat menggunakan const, tapi ketika kita ingin
+       merubah kita dapat menggunakan var, disamping itu juga selain const maka kita juga bisa menggunakan let dan let ini kita dapat
+       merubah
+
+2. Rangkuman
+   - Memasang Extentions pada browser
+   - Merapihkan Script HTML
+

@@ -1,0 +1,5 @@
+---- Keterangan Latihan 1 ----
+
+1. Rangkuman
+   - Memasang Extentions pada browser
+   - Merapihkan Script HTML

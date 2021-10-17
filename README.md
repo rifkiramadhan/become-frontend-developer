@@ -3,8 +3,8 @@
 - [x] HTML5 Dasar
 - [x] CSS Website Design
 - [x] CSS Tailwind Web Design
--  Vanilla JavaScript Pada Website Development
--  ES6 Dasar
+- [x] Vanilla JavaScript Pada Website Development
+- [x] ES6 Dasar
 -  Progressive Web Apps
 -  React JavaScript
 -  Vue JavaScript Framework
