@@ -1,0 +1,6 @@
+---- Keterangan Latihan 1 ----
+
+1. Pengertian
+   - React
+     - Kita akan menggunakan React JS sepenuhnya pada website agar lebih cepat, responsive, performance tinggi dll seperti 
+       membuat lebih interaktif

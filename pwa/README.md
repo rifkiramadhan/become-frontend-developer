@@ -33,5 +33,24 @@
 ### https://www.flaticon.com/
 ### https://developers.google.com/web/fundamentals/primers/service-workers?hl=id
 
+## Hosting Aplikasi
+#### https://shayna-pwa-4c2c0.firebaseapp.com/
+
 ## Materi
-### 
+### Dasar Kelas
+- Perkenalan PWA
+- Perkenalan Service Worker
+- Install Tools
+- Install Server Worker
+- Install Manifest JSON
+- Icon Apps
+### Service Worker
+- Memulai Cache
+- Update Cache
+- Fetch dan Activate
+### Deep Deep Down
+- Talking Break Heula 
+- Review Project
+- Offline First
+- Deployment Firebase
+- Live Testing

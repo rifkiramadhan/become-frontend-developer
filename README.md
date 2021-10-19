@@ -5,7 +5,7 @@
 - [x] CSS Tailwind Web Design
 - [x] Vanilla JavaScript Pada Website Development
 - [x] ES6 Dasar
--  Progressive Web Apps
+- [x] Progressive Web Apps
 -  React JavaScript
 -  Vue JavaScript Framework
 -  Web Dev Tools
