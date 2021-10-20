@@ -12,4 +12,21 @@
 - Node JS
 
 ## Materi
-### 
+### Basic
+- Install Tools
+- Install React JS
+- Mengenal JSX
+- ReactDOM Render
+### Project
+- Design Web Part 1
+- Design Web Part 2
+- Slicing Component
+- Props Component
+- Memberikan Event
+- Argument Event
+- Conditional Render
+- Map Array
+- Design Review Section
+- Map JSON Review
+- Split & Import Component
+- Keys & PropTypes

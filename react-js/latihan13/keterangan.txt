@@ -1,0 +1,27 @@
+---- Keterangan Latihan 11/12/13 ----
+
+1. Pengertian
+   - React
+     - Kita akan menggunakan React JS sepenuhnya pada website agar lebih cepat, responsive, performance tinggi dll seperti 
+       membuat lebih interaktif
+   - App.js
+     - Ini adalah tempat dimana kita akan melakukan proses coding dalam membangun single page application (SPA)
+   - JSX 
+    - Adalah (JavaScript XML) yang dimana kita memiliki variable JavaScript dengan di dalam nya itu kita sisipkan sebuah HTML
+    - Dengan menggunakan JSX kita dapat menambahkan sintaks HTML di dalam suatu variable, jika bukan JSX dia hanya string biasa
+    - Ketika kita memiliki banyak element HTML, maka perlu kita bungkus satu per satu element tersebut dengan tag div,
+      maka dia akan tidak terjadi error karena dia ada di dalam satu parent div
+   - index.js
+     - Adalah tempat dimaana kita dapat melakukan render
+   - className / class
+     - Jika kita ingin memberikan class pada React maka kita harus menggunakan penamaan atribut className pada tag HTML
+   - Integer
+     - Ketika kita menggunakan int untuk menambahkan titik maka kita harus menggunakan fungsi tambahan dari JavaScript
+   - Props
+     - Kita akan melemparkan data dari component satu kepada component lainnya, jadi fungsinya banyak sekali bisa melemparkan kunci
+       dari id yang kita dapatkan dari database, atau bahkan melemparkan data secara static
+   - Conditional Rendering
+     - Artinya adalah kita akan menampilkan suatu element atau component berdasarkan dari isi yang kita miliki pada website kita
+   - Map
+     - Akan melakukan perulangan dalam array untuk menampilkan item di dalam satu variable entah itu object atau array secara berulang
+       

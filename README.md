@@ -6,7 +6,7 @@
 - [x] Vanilla JavaScript Pada Website Development
 - [x] ES6 Dasar
 - [x] Progressive Web Apps
--  React JavaScript
+- [x] React JavaScript
 -  Vue JavaScript Framework
 -  Web Dev Tools
 -  CSS Bootstrap 4 Web Design

@@ -1,0 +1,61 @@
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto {
+  float: left;
+  width: 50%;
+  height: 700px;
+  background-color: #e3e9ee;
+}
+
+.Foto img {
+  width: 100%;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
+
+.Deskripsi a {
+  margin-top: 20px;
+  color: #fff;
+  font-weight: 500;
+  background: rgb(255, 159, 159);
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px 10px 20px;
+  font-size: 20px;
+  border-radius: 4px;
+  transition: all 0.8s;
+}
+
+.Deskripsi a:hover {
+  color: #fff;
+  background: rgb(221, 135, 135);
+  transition: all 0.8s;
+}

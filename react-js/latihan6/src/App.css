@@ -1,0 +1,42 @@
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto {
+  float: left;
+  width: 50%;
+  height: 700px;
+  background-color: #e3e9ee;
+}
+
+.Foto img {
+  width: 100%;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
