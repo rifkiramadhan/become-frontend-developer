@@ -1,0 +1,16 @@
+---- Keterangan Latihan 2 ----
+
+1. Pengertian
+   - CLI
+     - Dengan menggunakan CLI kita dapat dengan mudah membuat suatu project jadi tanpa harus menggunakan NPM lagi pada Vue JS 
+     
+2. Cara Penggunaan Installasi
+   - npm install -g @vue/cli @vue/cli-service-global
+     - Untuk menginstall Vue CLI
+   - vue --version
+     - Untuk melihat versi Vue CLI
+   - vue create hello-world
+     - Untuk mengintall project Vue JS dan membuat folder hello world
+   - npm run serve
+     - Untuk menjalankan project Vue JS pada localhost 8000
+

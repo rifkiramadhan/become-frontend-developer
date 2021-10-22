@@ -1,0 +1,33 @@
+---- Keterangan Latihan 3 ----
+
+1. Pengertian
+   - CLI
+     - Dengan menggunakan CLI kita dapat dengan mudah membuat suatu project jadi tanpa harus menggunakan NPM lagi pada Vue JS 
+     
+2. Cara Penggunaan Installasi
+   - npm install -g @vue/cli @vue/cli-service-global
+     - Untuk menginstall Vue CLI
+   - vue --version
+     - Untuk melihat versi Vue CLI
+   - vue create hello-world
+     - Untuk mengintall project Vue JS dan membuat folder hello world
+   - npm run serve
+     - Untuk menjalankan project Vue JS pada localhost 8000
+   - Struktur Folder
+     - public
+       - Adalah untuk halaman yang kita render untuk dapat digunakan oleh pengguna
+       - Jadi Vue JS yang ekstensi file nya berupa Vue lalu di render kepada HTML menggunakan file main JavaScript
+         maka setelah itu pengguna dapat menggunakan website kita sama seperti biasanya
+     - src
+       - assets
+         - Digunakan untuk tempat meletakkan suatu gambar icon, ulustrasi, logo dll bahkan video
+       - component
+         - Adalah suatu tempat dimana kita meletakkan component-component
+         - File HelloWorld.vue
+           - Dimana kita membuat sebuah document berekstensi .vue yang di dalamnya itu tersedia template dan script
+             untuk logical dan juga ada style
+     - File App.vue
+       - Adalah file utama vue kita yang akan di render kepada JavaScript kepada file index.html
+       - scoped
+         - Aturan styling untuk satu component vue, agar styling tidak berdampak kepada component lain
+      
