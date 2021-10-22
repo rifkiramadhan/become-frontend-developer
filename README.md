@@ -7,7 +7,7 @@
 - [x] ES6 Dasar
 - [x] Progressive Web Apps
 - [x] React JavaScript
--  Vue JavaScript Framework
--  Web Dev Tools
--  CSS Bootstrap 4 Web Design
+- [x] Vue JavaScript Framework
+- [x] Web Dev Tools
+- CSS Bootstrap 4 Web Design
 -  Full-Stack JavaScript Developer 2021: Website Top Up Voucher Game
