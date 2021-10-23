@@ -1,4 +1,5 @@
 # Become Front-End Developer
+### [Akses Alur Belajar](https://buildwithangga.com/journey/become-front-end-developer)
 ## Daftar Kelas
 - [x] HTML5 Dasar
 - [x] CSS Website Design
@@ -9,5 +10,6 @@
 - [x] React JavaScript
 - [x] Vue JavaScript Framework
 - [x] Web Dev Tools
-- CSS Bootstrap 4 Web Design
+- [x] CSS Bootstrap 4 Web Design
+-  Full-Stack JavaScript Developer: Website Travel
 -  Full-Stack JavaScript Developer 2021: Website Top Up Voucher Game

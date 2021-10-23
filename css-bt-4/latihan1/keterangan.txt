@@ -1,0 +1,16 @@
+---- Keterangan Latihan 1 ----
+
+1. Pengertian
+   - Bootstrap CSS
+     - Ketika kita menggunakan file ini maka semuanya itu sudah terinclude dari Layout, Content, Components dan Utilities
+     - Tapi ketika kita hanya menggunakan Grid System dia hanya mengambil grid saja, karena beberapa Web Developer hanya
+       membutuhkan Grid System saja
+   - Grid
+     - Adalah CSS yang dapat membagi kolom pada website menjadi beberapa bagian sesuai yang diinginkan, baik secara horizontal maupun vertikal
+   - Column
+     - Class row dan col merupakan class untuk membuat baris dan kolom. Kedua class ini lah yang kita gunakan untuk membuat grid
+   - Container
+     - Containers adalah element layout yang paling dasar pada bootstrap. kita wajib menggunakan containers jika ingin menggunakan sistem grid bootstrap
+     - Ada 2 jenis containers pada bootstrap, yaitu container dan container-fluid
+   - Row
+     - Class row berfungsi untuk membuat baris. Class ini menggunakan flex, namun breakpoint tidak berlaku untuk class ini
