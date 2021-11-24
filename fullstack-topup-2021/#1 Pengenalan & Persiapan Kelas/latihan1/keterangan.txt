@@ -1,0 +1,9 @@
+---- Keterangan Latihan 1 (StoreGG 01 - Installasi NextJS dan Project Structure) ----
+
+1. Cara Installasi
+   - npx create-next-app@latest storegg --typescript
+     - Untuk menginstall project next js dengan nama storegg
+
+2. Cara Menjalankan
+   - npm run dev
+     - Untuk menjalanakn project next js

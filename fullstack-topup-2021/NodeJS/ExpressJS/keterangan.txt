@@ -1,0 +1,9 @@
+---- Keterangan Express JS ----
+
+1. Cara Installasi
+   - npm install express --save
+     - Untuk menginstall Express JS
+   - npm install -g nodemon
+     - Untuk menginstall Nodemon
+   - npm install ejs
+     - Untuk menginstall Expres JS

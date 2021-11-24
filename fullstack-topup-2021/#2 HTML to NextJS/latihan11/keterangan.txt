@@ -1,0 +1,26 @@
+---- Keterangan Latihan 14 (StoreGG 16 - Convert Member Transactions Page) ----
+
+1. Cara Installasi
+   - npx create-next-app@latest storegg --typescript
+     - Untuk menginstall project next js dengan nama storegg
+   - npx sb init
+     - Untuk menginstall project storybook
+   - Untuk Menginstall Eslint di Next 12:
+     - npm install eslint --save-dev
+     - npm install eslint-config-airbnb --save-dev
+     - npm install eslint-config-next --save-dev
+     - npm install eslint-plugin-import --save-dev
+     - npm install eslint-plugin-jsx-a11y --save-dev
+     - npm install eslint-plugin-react --save-dev
+     - npm install eslint-plugin-react-hooks --save-dev
+     - npm install @typescript-eslint/eslint-plugin@4.30.0 --save-dev
+     - npm install @typescript-eslint/parser@4.30.0 --save-dev
+   - npm install aos
+   - npm install @types/aos
+     - Untuk menginstall AOS
+
+2. Cara Menjalankan
+   - npm run dev
+     - Untuk menjalanakn project next js
+   - npm run storybook
+     - Untuk menjalanakn storybook

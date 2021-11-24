@@ -1,0 +1,13 @@
+---- Keterangan Latihan 2 (StoreGG 02 - Installasi Storybook) ----
+
+1. Cara Installasi
+   - npx create-next-app@latest storegg --typescript
+     - Untuk menginstall project next js dengan nama storegg
+   - npx sb init
+     - Untuk menginstall project storybook
+
+2. Cara Menjalankan
+   - npm run dev
+     - Untuk menjalanakn project next js
+   - npm run storybook
+     - Untuk menjalanakn storybook
