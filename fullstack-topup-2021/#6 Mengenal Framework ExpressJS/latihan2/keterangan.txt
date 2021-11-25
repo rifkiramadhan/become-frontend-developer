@@ -1,0 +1,10 @@
+---- Keterangan Latihan 2 (Routing pada ExpressJS) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+   - npm install -g nodemon
+     - Untuk menginstall nodemon
+
+2. Cara Menjalankan
+   - npm run dev / npm .

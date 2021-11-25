@@ -1,0 +1,10 @@
+---- Keterangan Latihan 3 (Middleware pada Express JS) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+   - npm install -g nodemon
+     - Untuk menginstall nodemon
+
+2. Cara Menjalankan
+   - npm run dev / npm .

@@ -1,0 +1,8 @@
+---- Keterangan Latihan 4 (Membuat Scripts di package.json) ----
+
+1. Cara Installasi
+   - npm install faker
+     - Untuk menginstall faker
+
+2. Cara Menjalankan
+   - node .

@@ -1,0 +1,8 @@
+---- Keterangan Latihan 1 (Mengenal framework ExpressJS) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+
+2. Cara Menjalankan
+   - npm run dev / npm .
