@@ -1,0 +1,14 @@
+---- Keterangan Latihan 9 (Menerapkan Mongoose pada ExpressJS) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+   - npm install -g nodemon
+     - Untuk menginstall nodemon
+   - npm install mongodb
+     - Untuk menginstall mongodb
+   - npm install mongoose --save
+     - Untuk menginstall mongoose
+
+2. Cara Menjalankan
+   - npm run dev / npm .

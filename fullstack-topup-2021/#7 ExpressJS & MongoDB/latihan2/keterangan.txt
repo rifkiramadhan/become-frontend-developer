@@ -1,0 +1,12 @@
+---- Keterangan Latihan 5 (Menerapkan MongoDB kedalam ExpressJS (CRUD) - PART 1) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+   - npm install -g nodemon
+     - Untuk menginstall nodemon
+   - npm install mongodb
+     - Untuk menginstall mongodb 
+
+2. Cara Menjalankan
+   - npm run dev / npm .

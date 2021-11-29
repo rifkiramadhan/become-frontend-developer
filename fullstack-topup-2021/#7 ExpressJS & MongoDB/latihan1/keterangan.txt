@@ -1,0 +1,12 @@
+---- Keterangan Latihan 4 (Konfigurasi MongoDB & ExpressJS) ----
+
+1. Penggunaan Installasi
+   - npm i express --save
+     - Untuk menginstall express
+   - npm install -g nodemon
+     - Untuk menginstall nodemon
+   - npm install mongodb
+     - Untuk menginstall mongodb 
+
+2. Cara Menjalankan
+   - npm run dev / npm .
