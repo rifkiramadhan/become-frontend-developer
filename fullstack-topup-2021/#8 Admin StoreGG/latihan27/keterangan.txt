@@ -1,0 +1,22 @@
+---- Keterangan Latihan 27 (Mengelola halaman payment (CRUD) Part 4 Delete) ----
+
+1. Cara Installasi
+   - express --view=ejs bwa-storegg-server
+     - Untuk menginstall project express js kita dengan nama bwa-storegg-server
+   - npm i dotenv
+     - Untuk menginstall env
+   - npm i mongoose@5.13.2
+     - Untuk menginstal mongoose dengan versi yang sama pada video tutorial
+   - npm i admin-lte
+     - Untuk menginstal project template admin lte 2
+   - npm i connect-flash
+     - Untuk menginstall flash
+   - npm i express-session
+     - Untuk menginstall express session
+   - npm i multer
+     - Untuk menghandle image menggunakan multer
+
+
+2. Cara Menjalankan
+   - npm run start / npm run dev
+     - Untuk Menjalankan project bwa-storegg-server kita

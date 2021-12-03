@@ -1,0 +1,15 @@
+---- Keterangan Latihan 2 (Membuat project baru dengan Express Generator dan konfigurasi awal→Part2) ----
+
+1. Cara Installasi
+   - express --view=ejs bwa-storegg-server
+     - Untuk menginstall project express js kita dengan nama bwa-storegg-server
+   - npm i dotenv
+     - Untuk menginstall env
+   - npm i mongoose@5.13.2
+     - Untuk menginstal mongoose dengan versi yang sama pada video tutorial
+
+   
+
+2. Cara Menjalankan
+   - npm run start / npm run dev
+     - Untuk Menjalankan project bwa-storegg-server kita

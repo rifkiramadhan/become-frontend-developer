@@ -1,0 +1,10 @@
+---- Keterangan Latihan 1 (Membuat project baru dengan Express Generator dan konfigurasi awal→Part 1) ----
+
+1. Cara Installasi
+   - express --view=ejs bwa-storegg-server
+     - Untuk menginstall project express js kita dengan nama bwa-storegg-server
+   
+
+2. Cara Menjalankan
+   - npm run start / npm run dev
+     - Untuk Menjalankan project bwa-storegg-server kita
