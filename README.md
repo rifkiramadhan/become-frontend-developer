@@ -11,5 +11,4 @@
 - [x] Vue JavaScript Framework
 - [x] Web Dev Tools
 - [x] CSS Bootstrap 4 Web Design
--  Full-Stack JavaScript Developer: Website Travel
--  Full-Stack JavaScript Developer 2021: Website Top Up Voucher Game
+- [x] Full-Stack JavaScript Developer 2021: Website Top Up Voucher Game
